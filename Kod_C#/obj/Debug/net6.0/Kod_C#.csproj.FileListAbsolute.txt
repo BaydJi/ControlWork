@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\bin\Debug\net6.0\Kod_C#.exe
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\bin\Debug\net6.0\Kod_C#.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\bin\Debug\net6.0\Kod_C#.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\bin\Debug\net6.0\Kod_C#.dll
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\bin\Debug\net6.0\Kod_C#.pdb
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\obj\Debug\net6.0\Kod_C#.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\obj\Debug\net6.0\Kod_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\obj\Debug\net6.0\Kod_C#.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\obj\Debug\net6.0\Kod_C#.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\obj\Debug\net6.0\Kod_C#.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\obj\Debug\net6.0\Kod_C#.dll
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\obj\Debug\net6.0\refint\Kod_C#.dll
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\obj\Debug\net6.0\Kod_C#.pdb
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\obj\Debug\net6.0\Kod_C#.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Уч\Контрольная\Kod_C#\obj\Debug\net6.0\ref\Kod_C#.dll
